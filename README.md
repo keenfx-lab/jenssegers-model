@@ -4,7 +4,7 @@ Model
 [![Build Status](http://img.shields.io/travis/jenssegers/model.svg)](https://travis-ci.org/jenssegers/model) [![Coverage Status](http://img.shields.io/coveralls/jenssegers/model.svg)](https://coveralls.io/r/jenssegers/model)
 
 ## Attention!
-This is a forked Model package separaded from upstream repository to fix Log.warnings while waiting for the real jenssegers/model to be updated. This is a temporary solution to overflowing error logs.
+This is a forked Model package separated from upstream repository to fix Log.warnings while waiting for the real jenssegers/model to be updated. This is a temporary solution to overflowing error logs.
 
 This model provides an Laravel eloquent-like base class that can be used to build custom models in Laravel or other frameworks.
 
